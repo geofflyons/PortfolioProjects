@@ -30,37 +30,46 @@ I was responsible for overseeing the development of a large multisite database f
 The following files are available (as at February 2024)
 
 #### COVID19 Dashboard (Tableau)
-* COVID19Dash.pdf - This is a simple dashboard to demonstrate Tableau
-* ![COVID_Dashboard]/projectfiles/COVID19DASH.pdf
-[![COVID_Dashboard]/projectfiles/COVID19DASH.pdf](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+* This is a simple dashboard to demonstrate Tableau
 
-[![COVID_Dashboard](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-[COVID_Dashboard](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+  https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 #### Single Case Research Design (JASP)
-* CaseStudyExample2024.pdf - This is a pdf file showing the data analysis for a single case research design study of a person receiving a novel intetervention for pain and sleep disorder. The open source platform JASP has been used for this project. It is similar to SPSS.
+* This is a pdf file showing the results of a single case research design study that explored the effect of a novel intetervention for pain and sleep disorder on sleep levels i na male patient. The open source platform JASP has been used for this project. This software is similar to SPSS.
+
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf
 
 #### Exploratory Data Analysis (Python)
 * EDA_ASSIGNMENT_LYONS.ipynb - This python file shows coding for an exploratory data analysis
 
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/EDA_ASSIGNMENT_LYONS.ipynb
+
 #### Predictive Modelling (Python)
 * IOD Capstone Note Book_Geoff.ipynb - This file shows python coding for a capstone project that included predictive modelling
+
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD%20Capstone%20Notebook_Geoff.ipynb
 
 #### Regression Analysis (Python)
 * IOD_REgression_Assignment-Copy1.ipynb - This file shows python coding for a basic EDA and regression analysis
 
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD_Regression_Assignment-Copy1.ipynb
+
 #### Exploratory Data Analysis (R)
 * MA5800 Final Capstone Code.R - This file shows R coding for an EDA
+
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/MA5800%20Final%20Capstone%20Code.R
 
 #### Data Wrangling 1 (SQL)
 * SQLQuery2_DataWrangling.sql - A SQL file demonstrating data wrangling
 
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_DataWrangling.sql
+
 #### Data Wrangling 2 (SQL)
 * SQLQuery2_SelectingData.sql - A SQL file also demonstrating data wrangling
 
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_SelectingData.sql
+
 #### University Dashboard (PowerBI)
 * University Dashboard_redacted.pdf - This pdf file shows a dashboard that I developed for a university showing student engagement across university services. This dashboard was developed in both PowerBI and Tableau however a redacted file is all that could be shared.
+
+  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/University%20Dashboard_Redacted.pdf
