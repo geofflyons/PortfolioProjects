@@ -35,6 +35,12 @@ The following files are available (as at February 2024)
 [![COVID_Dashboard]/projectfiles/COVID19DASH.pdf](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+[![COVID_Dashboard](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+[COVID_Dashboard](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 #### Single Case Research Design (JASP)
 * CaseStudyExample2024.pdf - This is a pdf file showing the data analysis for a single case research design study of a person receiving a novel intetervention for pain and sleep disorder. The open source platform JASP has been used for this project. It is similar to SPSS.
 
