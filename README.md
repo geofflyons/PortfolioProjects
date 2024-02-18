@@ -36,7 +36,7 @@ This role was with the School of Psychology’s Postgraduate Professional Psycho
 
 ### Research Analyst, Illawarra Institute for Mental Health (Jan 2008 – Jul 2013)
 In this role I contributed to data collection and the management of a large multisite database for a project working with a major not-for-profit provider of drug and alcohol treatment services. The role involved collecting and analysing data from multiple drug and alcohol treatment centres across Australia, training and supervising junior researchers in this process, analysing data, drafting reports and presentations, and delivering project outcomes to stakeholders. Writing journal articles for publication and managing all aspects of the publication process was also required.
-Associated skills: Research design; data collection; management of large multisite databases; analysis of large quantitative databases and presenting results to stakeholders; training and supervising junior research team members; writing for publication; grant writing.
+
 
 ## Portfolio Projects
 The following examples of my work are available:
@@ -47,7 +47,7 @@ The following examples of my work are available:
   https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 #### Single Case Research Design (JASP)
-* This is a pdf file showing the results of a single case research design study that explored the effect of a novel intetervention for pain and sleep disorder on sleep levels i na male patient. The open source platform JASP has been used for this project. This software is similar to SPSS.
+* The results of a single case research design study that explored the effect of a novel intervention for pain on sleep levels in a male patient. The open source software JASP has been used for this project which is similar to SPSS.
 
   https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf
 
