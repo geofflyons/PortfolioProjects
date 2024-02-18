@@ -1,3 +1,19 @@
+#test
+- abc
+- abc
+- abc
+  
+##test 2
+- abc2
+- abc2
+- abc2
+- 
+###test 3
+- abc3
+- abc3
+- abc3
+
+- 
 The following files are examples of my work across various platforms, including python, R, tableau, powerBI and JASP.
 These are "warts and all" examples. You can see what I did well and the areas where I needed support.
 
