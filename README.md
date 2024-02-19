@@ -59,7 +59,7 @@ The following examples of my work are available:
 #### [Single Case Research Design (JASP)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf) 
 * The results of a single case research design study that explored the effect of a novel intervention for pain on sleep levels in a male patient. The open source software JASP has been used for this project which is similar to SPSS.
 
-#### [Exploratory Data Analysis (Python)](projectfiles/EDA_Energy Healing Clients.ipynb)
+#### [Exploratory Data Analysis (Python)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/EDA_Energy Healing Clients.ipynb)
 * This python file shows coding for an exploratory data analysis
 
 #### [Predictive Modelling (Python)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD%20Capstone%20Notebook_Geoff.ipynb)
