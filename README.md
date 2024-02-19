@@ -23,7 +23,10 @@ I have a background in psychology and data analytics. I have worked as a researc
 I have owned and operated a private counselling and wellness practice in the Sutherland Shire of Sydney, Australia. This practice was a clinical psychology practice for many years until my approach transitioned into psychotherapy, hypnotherapy, kinesiology and holistic coaching. 
 
 ### Data Analyst, Western Sydney University (Jul 2019 - Nov 2020)
-I was responsible for overseeing the development of a large multisite database for Western Sydney University’s Student Engagement service. The role was a blend of research and data analytics. It involved reviewing empirical literature on student engagement, developing models for service evaluation from student engagement literature, collecting data, and developing reporting dashboards using PowerBI and Tableau. It also involved educating staff on topics such as the student engagement literature, the role of research and data analytics in service development, collecting and analysing data across WSU campuses, facilitating in-service training and workshops, and analysing and reporting course metrics to stakeholders.
+* Development of a database for Western Sydney University’s Student Engagement Service through the integration of behavioural research and data analytics skills. 
+* The project required a review of empirical literature on student engagement, the development a theoretical model of student engagement, data collection and preparation, and designing and coding dashboards using PowerBI and Tableau. 
+* The role also included the development and facilitation of in-service training workshops and reporting course metrics to stakeholders.
+
 
 ### Research Analyst, Wyla Wellness Ltd (Jul 2018 - Jan 2022)
 Wyla Wellness Ltd is a not-for-profit charity that provides nature-based residential programs for the treatment of mental health in Australian veterans and first responders. I played a leadership role in the organisation; helping develop it from its inception through to a government recognised not-for-profit charity with DGR status. This includes writing literature reviews, grant proposals, designing and implementing research projects (design, ethics approval, data collection and analysis, report preparation), writing proposals for stakeholders, and contributing to governance. A core component of this role was directing research strategy and implementing research projects.
@@ -41,7 +44,7 @@ In this role I contributed to data collection and the management of a large mult
 ## Portfolio Projects
 The following examples of my work are available:
 
-#### [COVID19 Dashboard (Tableau)](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)  
+##### [COVID19 Dashboard (Tableau)](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)  
 * This is a simple COVID19 dashboard created in Tableau.
 
 #### [Single Case Research Design (JASP)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf) 
