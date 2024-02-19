@@ -42,7 +42,7 @@ In this role I contributed to data collection and the management of a large mult
 The following examples of my work are available:
 
 #### COVID19 Dashboard (Tableau)
-* This is a simple dashboard to demonstrate Tableau
+* This is a simple [COVID19 dashboard] (https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) created in Tableau
 
   https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
