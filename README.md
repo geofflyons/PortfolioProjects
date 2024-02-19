@@ -40,7 +40,9 @@ I have owned and operated a private counselling and wellness practice in the Sut
 
 
 ### Lecturer, Australian Catholic University (Jul 2014 – March 2016)
-This role was with the School of Psychology’s Postgraduate Professional Psychology Program. It was similar to the role of Senior Lecturer outlined above. The main difference being that this role had less leadership duties and a reduction in the number of research students supported. In this role I specialised in teaching clinical health psychology, psychological assessment, and counselling and cognitive behavioural therapy.
+* The provision of specialized postgraduate education and assessment on clinical health psychology, psychological assessment, and counselling and cognitive behavioural therapy.
+* Supervising postgraduate students through all stages of qualitative and quantitively research through to publication.
+
 
 ### Research Analyst, Illawarra Institute for Mental Health (Jan 2008 – Jul 2013)
 In this role I contributed to data collection and the management of a large multisite database for a project working with a major not-for-profit provider of drug and alcohol treatment services. The role involved collecting and analysing data from multiple drug and alcohol treatment centres across Australia, training and supervising junior researchers in this process, analysing data, drafting reports and presentations, and delivering project outcomes to stakeholders. Writing journal articles for publication and managing all aspects of the publication process was also required.
