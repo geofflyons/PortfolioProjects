@@ -41,50 +41,32 @@ In this role I contributed to data collection and the management of a large mult
 ## Portfolio Projects
 The following examples of my work are available:
 
-#### COVID19 Dashboard (Tableau)
-* This is a simple [COVID19 dashboard] (https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) created in Tableau
+#### [COVID19 Dashboard (Tableau)](https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)  
+* This is a simple COVID19 dashboard created in Tableau.
 
-  https://public.tableau.com/views/COVID19SimpleDash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-#### Single Case Research Design (JASP)
+#### [Single Case Research Design (JASP)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf) 
 * The results of a single case research design study that explored the effect of a novel intervention for pain on sleep levels in a male patient. The open source software JASP has been used for this project which is similar to SPSS.
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/CaseStudyExample2024.pdf
-
-#### Exploratory Data Analysis (Python)
+#### [Exploratory Data Analysis (Python)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/EDA_ASSIGNMENT_LYONS.ipynb)
 * This python file shows coding for an exploratory data analysis
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/EDA_ASSIGNMENT_LYONS.ipynb
-
-#### Predictive Modelling (Python)
+#### [Predictive Modelling (Python)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD%20Capstone%20Notebook_Geoff.ipynb)
 * This file shows python coding for a capstone project that included predictive modelling
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD%20Capstone%20Notebook_Geoff.ipynb
-
-#### Regression Analysis (Python)
+#### [Regression Analysis (Python)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD_Regression_Assignment-Copy1.ipynb)
 * This file shows python coding for a basic EDA and regression analysis
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/IOD_Regression_Assignment-Copy1.ipynb
-
-#### Exploratory Data Analysis (R)
+#### [Exploratory Data Analysis (R)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/MA5800%20Final%20Capstone%20Code.R)
 * This file shows R coding for an EDA
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/MA5800%20Final%20Capstone%20Code.R
-
-#### Data Wrangling 1 (SQL)
+#### [Data Wrangling 1 (SQL)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_DataWrangling.sql)
 * SQLQuery2_DataWrangling.sql - A SQL file demonstrating data wrangling
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_DataWrangling.sql
-
-#### Data Wrangling 2 (SQL)
+#### [Data Wrangling 2 (SQL)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_SelectingData.sql)
 * SQLQuery2_SelectingData.sql - A SQL file also demonstrating data wrangling
 
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/SQLQuery2_SelectingData.sql
-
-#### University Dashboard (PowerBI)
-* This pdf file shows a dashboard that I developed for a university showing student engagement across university services. This dashboard was developed in both PowerBI and Tableau however a redacted file is all that could be shared.
-
-  https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/University%20Dashboard_Redacted.pdf
+#### [University Dashboard (PowerBI)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/University%20Dashboard_Redacted.pdf)
+* This pdf file shows a dashboard that I developed for a university showing student engagement across university services. This dashboard was developed in both PowerBI and Tableau however a redacted file is all that could be shared
 
 
 ## Peer Reviewed Publications
