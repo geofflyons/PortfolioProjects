@@ -20,7 +20,7 @@ I have a background in psychology and data analytics. I have worked as a researc
 
 ## Work Experience
 ### Doctor of Psychology / Couples Counsellor (Nov 2012 - Present)
-I have owned and operated a private counselling and wellness practice in the Sutherland Shire of Sydney, Australia. This practice was a clinical psychology practice for many years until my approach transitioned into psychotherapy, hypnotherapy, kinesiology and holistic coaching. 
+* I have owned and operated a private counselling and wellness practice in the Sutherland Shire of Sydney, Australia. This practice was a clinical psychology practice for many years until my approach transitioned into holistic coaching.
 
 ### Data Analyst, Western Sydney University (Jul 2019 - Nov 2020)
 * Development of a database for Western Sydney University’s Student Engagement Service through the integration of behavioural research and data analytics skills. 
@@ -80,6 +80,13 @@ The following examples of my work are available:
 #### [University Dashboard (PowerBI)](https://github.com/geofflyons/PortfolioProjects/blob/main/projectfiles/University%20Dashboard_Redacted.pdf)
 * This pdf file shows a dashboard that I developed for a university showing student engagement across university services. This dashboard was developed in both PowerBI and Tableau however a redacted file is all that could be shared
 
+## Website Design
+I have designed and programmed the following websites and sales funnels:
+#### [Inspirit Psychology (Wordpress)](https://inspiritpsychology.com.au)
+
+#### [Data Analytics Portfolio (Github)](https://geofflyons.github.io/PortfolioProjects/)
+
+#### [Coaching Sales Funnel (Kartra)](https://www.stressrecoveryprocess.com/opt-in)
 
 ## Peer Reviewed Publications
 * Lyons, G. C. B. (manuscript in preparation). Psychological mechanisms of shamanic and energetic healing.
