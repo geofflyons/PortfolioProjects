@@ -45,7 +45,9 @@ I have owned and operated a private counselling and wellness practice in the Sut
 
 
 ### Research Analyst, Illawarra Institute for Mental Health (Jan 2008 – Jul 2013)
-In this role I contributed to data collection and the management of a large multisite database for a project working with a major not-for-profit provider of drug and alcohol treatment services. The role involved collecting and analysing data from multiple drug and alcohol treatment centres across Australia, training and supervising junior researchers in this process, analysing data, drafting reports and presentations, and delivering project outcomes to stakeholders. Writing journal articles for publication and managing all aspects of the publication process was also required.
+* In this role I contributed to data collection and the management of a large multisite database for a project working with a major not-for-profit provider of drug and alcohol treatment services. 
+* The role involved collecting and analysing data from multiple drug and alcohol treatment centres across Australia, training and supervising junior researchers, analysing data, drafting reports and presentations, delivering project outcomes to stakeholders, writing journal articles for publication, and managing all aspects of the publication process.
+
 
 
 ## Portfolio Projects
