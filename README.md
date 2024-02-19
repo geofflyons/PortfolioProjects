@@ -29,10 +29,15 @@ I have owned and operated a private counselling and wellness practice in the Sut
 
 
 ### Research Analyst, Wyla Wellness Ltd (Jul 2018 - Jan 2022)
-Wyla Wellness Ltd is a not-for-profit charity that provides nature-based residential programs for the treatment of mental health in Australian veterans and first responders. I played a leadership role in the organisation; helping develop it from its inception through to a government recognised not-for-profit charity with DGR status. This includes writing literature reviews, grant proposals, designing and implementing research projects (design, ethics approval, data collection and analysis, report preparation), writing proposals for stakeholders, and contributing to governance. A core component of this role was directing research strategy and implementing research projects.
+* Wyla Wellness Ltd is a not-for-profit charity that provides nature-based residential programs for the treatment of mental health in Australian veterans and first responders. 
+* Senior Management role responsible for founding and developing infrastructure and governance required for obtaining Deductable Gift Recipient (DGR) status.
+* Leading the development of research objectives and strategy, literature reviews, preparation of internal reports and grant proposals, designing and implementing research projects (design, ethics approval, data collection and analysis, report preparation).
+
 
 ### Senior Lecturer, Australian College of Applied Psychology (Mar 2016 - Mar 2019)
-This was a specialised position comprising multiple roles with the Discipline of Psychological Science’s postgraduate Professional Psychology Program. These duties included: (1) providing academic leadership within the Discipline’s Professional Programs; (2) the development and provision of high quality postgraduate training in professional psychology; (3) the supervision of provisional psychologists; (4) the coordination of adult psychometric assessments and supervision of students in psychometric assessments; (5) the development and management of student research projects; (6) and the maintenance of an active research profile.
+* This was a specialised position comprising multiple roles with the Discipline of Psychological Science’s postgraduate Professional Psychology Program. Duties included:
+* (1) providing academic leadership within the Discipline’s Professional Programs; (2) the development and provision of quality postgraduate training in professional psychology; (3) the supervision of provisional psychologists; (4) the coordination of adult psychometric assessments and supervision of students in psychometric assessments; (5) the development and management of student research projects; (6) and the maintenance of an active research profile.
+
 
 ### Lecturer, Australian Catholic University (Jul 2014 – March 2016)
 This role was with the School of Psychology’s Postgraduate Professional Psychology Program. It was similar to the role of Senior Lecturer outlined above. The main difference being that this role had less leadership duties and a reduction in the number of research students supported. In this role I specialised in teaching clinical health psychology, psychological assessment, and counselling and cognitive behavioural therapy.
