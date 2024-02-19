@@ -1,5 +1,5 @@
 # Behavioural & Data Scientist
-#### Technical skills: Python, R, SPSS, SQL, JASP, Excel
+#### Technical skills: Python, R, SPSS, SQL, Alteryx, JASP, Excel
 
 ## Tertiary Education
 * Masters of Data Science – James Cook University, in progress
